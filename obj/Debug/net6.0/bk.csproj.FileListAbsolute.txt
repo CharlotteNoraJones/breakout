@@ -24,3 +24,4 @@ c:\Users\CharlotteJ\Documents\Projects\bk\obj\Debug\net6.0\refint\bk.dll
 c:\Users\CharlotteJ\Documents\Projects\bk\obj\Debug\net6.0\bk.pdb
 c:\Users\CharlotteJ\Documents\Projects\bk\obj\Debug\net6.0\bk.genruntimeconfig.cache
 c:\Users\CharlotteJ\Documents\Projects\bk\obj\Debug\net6.0\ref\bk.dll
+c:\Users\CharlotteJ\Documents\Projects\bk\obj\Debug\net6.0\bk.sourcelink.json
